@@ -1,36 +1,24 @@
 ---
 layout: tne
 ---
-# Description
+## <center>TNE: Topical Node Embeddings</center>
+### Motivation
+##### *TNE (Topical Node Embeddings)* is a general framework to enhance the embeddings of nodes acquired by means of the random walk-based approaches. The proposed method assigns each vertex to a topic/commmunity label with the favor of various statistical models and community detection methods, and then generates the enhanced community representations.
 
-# Code
-##### Installation
-> git clone https://github.com/abdcelikkanat/TNE.git
+![Image](/assets/complete.jpg)
+##### *<center> Schematic representation of the TNE model. </center>*
 
-It may be required to compile "word2vec_inner.pyx" file.
 
-##### Installation with Anaconda
-Create a conda environment named 'tne'
-> conda create -n tne python=3.5
 
-Activate the conda environment
-> source activate tne
 
-Run the following command to install the required packages
-> pip install -r requirements.txt
-
-#### Usage
-##### Example
-
-To test TNE on Zachary's karate club network, run the following commands from the project home directory.
-> source activate tne
-
-> python run.py --graph_path ./datasets/karate.gml --random_walk deepwalk --n 80 --l 10 --k 2 --community_detection_method lda --negative 5 --output_folder ./outputs --concat_method max
-
-##### Options
-
-You can see the other available options by invoking the command:
-> python run.py --help
-
+### Code
+##### The implementation of the *TNE* framework in Python can be reached at the [Github](https://github.com/abdcelikkanat/TNE) repository.
 
 ### Experiments
+##### The experiments will be here.
+
+### Contributors
+##### [Abdulkadir Çelikkanat](http://abdcelikkanat.github.io/) and [Fragkiskos D. Malliaros](http://fragkiskos.me)
+
+### References
+##### TNE: Topical Node Embeddings

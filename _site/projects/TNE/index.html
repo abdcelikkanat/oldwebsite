@@ -3,9 +3,9 @@
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1"><!-- Begin Jekyll SEO tag v2.5.0 -->
-<title>Description | abdcelikkanat.github.io</title>
+<title>TNE: Topical Node Embeddings | abdcelikkanat.github.io</title>
 <meta name="generator" content="Jekyll v3.7.4" />
-<meta property="og:title" content="Description" />
+<meta property="og:title" content="TNE: Topical Node Embeddings" />
 <meta property="og:locale" content="en_US" />
 <meta name="description" content="Personal web page" />
 <meta property="og:description" content="Personal web page" />
@@ -13,7 +13,7 @@
 <meta property="og:url" content="http://localhost:4000/projects/TNE/" />
 <meta property="og:site_name" content="abdcelikkanat.github.io" />
 <script type="application/ld+json">
-{"@type":"WebPage","headline":"Description","url":"http://localhost:4000/projects/TNE/","description":"Personal web page","@context":"http://schema.org"}</script>
+{"@type":"WebPage","url":"http://localhost:4000/projects/TNE/","headline":"TNE: Topical Node Embeddings","description":"Personal web page","@context":"http://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 <link rel="stylesheet" href="/assets/main.css"><link type="application/atom+xml" rel="alternate" href="http://localhost:4000/feed.xml" title="abdcelikkanat.github.io" /></head>
 <body><header class="site-header" role="banner">
@@ -30,59 +30,31 @@
 
         <div class="trigger">
              <a class="page-link" href="">Description</a>
-             <a class="page-link" href="">Code</a>
-             <a class="page-link" href="">Experiments</a>
+             <a class="page-link" href="#code">Code</a>
+             <a class="page-link" href="#experiments">Experiments</a>
         </div>
       </nav></div>
 </header>
 <main class="page-content" aria-label="Content">
       <div class="wrapper">
-        <h1 id="description">Description</h1>
+        <h2 id="tne-topical-node-embeddings"><center>TNE: Topical Node Embeddings</center></h2>
+<h3 id="motivation">Motivation</h3>
+<h5 id="tne-topical-node-embeddings-is-a-general-framework-to-enhance-the-embeddings-of-nodes-acquired-by-means-of-the-random-walk-based-approaches-the-proposed-method-assigns-each-vertex-to-a-topiccommmunity-label-with-the-favor-of-various-statistical-models-and-community-detection-methods-and-then-generates-the-enhanced-community-representations"><em>TNE (Topical Node Embeddings)</em> is a general framework to enhance the embeddings of nodes acquired by means of the random walk-based approaches. The proposed method assigns each vertex to a topic/commmunity label with the favor of various statistical models and community detection methods, and then generates the enhanced community representations.</h5>
 
-<h1 id="code">Code</h1>
-<h5 id="installation">Installation</h5>
-<blockquote>
-  <p>git clone https://github.com/abdcelikkanat/TNE.git</p>
-</blockquote>
+<p><img src="/assets/complete.jpg" alt="Image" /></p>
+<h5 id="-schematic-representation-of-the-tne-model-"><em><center> Schematic representation of the TNE model. </center></em></h5>
 
-<p>It may be required to compile “word2vec_inner.pyx” file.</p>
-
-<h5 id="installation-with-anaconda">Installation with Anaconda</h5>
-<p>Create a conda environment named ‘tne’</p>
-<blockquote>
-  <p>conda create -n tne python=3.5</p>
-</blockquote>
-
-<p>Activate the conda environment</p>
-<blockquote>
-  <p>source activate tne</p>
-</blockquote>
-
-<p>Run the following command to install the required packages</p>
-<blockquote>
-  <p>pip install -r requirements.txt</p>
-</blockquote>
-
-<h4 id="usage">Usage</h4>
-<h5 id="example">Example</h5>
-
-<p>To test TNE on Zachary’s karate club network, run the following commands from the project home directory.</p>
-<blockquote>
-  <p>source activate tne</p>
-</blockquote>
-
-<blockquote>
-  <p>python run.py –graph_path ./datasets/karate.gml –random_walk deepwalk –n 80 –l 10 –k 2 –community_detection_method lda –negative 5 –output_folder ./outputs –concat_method max</p>
-</blockquote>
-
-<h5 id="options">Options</h5>
-
-<p>You can see the other available options by invoking the command:</p>
-<blockquote>
-  <p>python run.py –help</p>
-</blockquote>
+<h3 id="code">Code</h3>
+<h5 id="the-implementation-of-the-tne-framework-in-python-can-be-reached-at-the-github-repository">The implementation of the <em>TNE</em> framework in Python can be reached at the <a href="https://github.com/abdcelikkanat/TNE">Github</a> repository.</h5>
 
 <h3 id="experiments">Experiments</h3>
+<h5 id="the-experiments-will-be-here">The experiments will be here.</h5>
+
+<h3 id="contributors">Contributors</h3>
+<h5 id="abdulkadir-çelikkanat-and-fragkiskos-d-malliaros"><a href="http://abdcelikkanat.github.io/">Abdulkadir Çelikkanat</a> and <a href="http://fragkiskos.me">Fragkiskos D. Malliaros</a></h5>
+
+<h3 id="references">References</h3>
+<h5 id="tne-topical-node-embeddings-1">TNE: Topical Node Embeddings</h5>
 
       </div>
     </main><footer class="site-footer h-card">

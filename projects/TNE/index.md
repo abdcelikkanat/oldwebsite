@@ -21,4 +21,4 @@ layout: tne
 ##### [Abdulkadir Çelikkanat](http://abdcelikkanat.github.io/) and [Fragkiskos D. Malliaros](http://fragkiskos.me)
 
 ### References
-##### TNE: Topical Node Embeddings
+##### A. Celikkanat and F. D. Malliaros, TNE: A Latent Model for Representation Learning on Networks, *arXiv preprint*, *1810.06917*, 2018

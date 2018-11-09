@@ -14,9 +14,6 @@ layout: tne
 ### Code
 ##### The implementation of the *TNE* framework in Python can be reached at the [Github](https://github.com/abdcelikkanat/TNE) repository.
 
-### Experiments
-##### The experiments will be here.
-
 ### Contributors
 ##### [Abdulkadir Çelikkanat](http://abdcelikkanat.github.io/) and [Fragkiskos D. Malliaros](http://fragkiskos.me)
 

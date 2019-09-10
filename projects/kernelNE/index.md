@@ -13,4 +13,4 @@ layout: kernelNE
 ##### [Abdulkadir Çelikkanat](http://abdcelikkanat.github.io/) and [Fragkiskos D. Malliaros](http://fragkiskos.me)
 
 ### References
-##### A. Celikkanat and F. D. Malliaros, [Kernel Node Embeddings](https://arxiv.org/abs/1909.03416), *arXiv preprint*, *1909.03416*, 2019
+##### A. Celikkanat and F. D. Malliaros, [Kernel Node Embeddings](https://arxiv.org/abs/1909.03416), 7th IEEE Global Conference on Signal and Information Processing (GlobalSIP), 2019

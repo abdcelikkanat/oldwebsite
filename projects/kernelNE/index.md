@@ -2,8 +2,19 @@
 layout: kernelNE
 ---
 ## <center>Kernel Node Embeddings</center>
-### Motivation
-##### *KernelNE*  is a method for learning node embeddings by incorporating kernel functions with models relying on weighted matrix factorization, encoding random walk-based structural information of the graph.
+
+### Description
+
+![KernelNE Picture](/assets/kernel_banner.jpg)
+
+<h5><p align="justify">
+Learning representations of nodes in a low dimensional  space is a crucial task with many interesting applications in network analysis, including link prediction and node classification. Two popular  approaches for this problem include <i>matrix factorization</i> and <i>random walk</i>-based models.
+</p></h5>
+
+<h5><p align="justify">
+In this work, we aim to bring together the best of both worlds, towards learning latent node representations. In particular, we propose a weighted matrix factorization model which encodes random walk-based information about the nodes of the graph. The main benefit of this formulation is that it allows to utilize  kernel functions on the computation of the embeddings. We perform an empirical evaluation on real-world networks, showing that the proposed model outperforms baseline node embedding algorithms in two downstream machine learning tasks.
+</p></h5>
+
 
 
 ### Code

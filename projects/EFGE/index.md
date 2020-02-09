@@ -4,7 +4,7 @@ layout: EFGE
 ## <center>Exponential Family Graph Embeddings</center>
 ### Description
 <h5 align="justify">
-We emphasize on exponential family distributions to capture rich interaction patterns between nodes in random walk sequences. We introduce the generic *exponential family graph embedding* model, that generalizes random walk-based network representation learning techniques to exponential family conditional distributions. We study three particular instances of this model, analyzing their properties and showing their relationship to existing unsupervised learning models. Our experimental evaluation on real-world datasets demonstrates that the proposed techniques outperform well-known baseline methods in two downstream machine learning tasks.
+We emphasize on exponential family distributions to capture rich interaction patterns between nodes in random walk sequences. We introduce the generic <i>exponential family graph embedding</i> model, that generalizes random walk-based network representation learning techniques to exponential family conditional distributions. We study three particular instances of this model, analyzing their properties and showing their relationship to existing unsupervised learning models. Our experimental evaluation on real-world datasets demonstrates that the proposed techniques outperform well-known baseline methods in two downstream machine learning tasks.
 </h5>
 
 
@@ -30,7 +30,7 @@ We emphasize on exponential family distributions to capture rich interaction pat
   </div>
   <div class="column" style="float: left; width: 18.6%; padding: 5px">
     <img src="/assets/efge/dolphins_deepwalk_dim=2_eigen-1.jpg">
-    <div style="text-align:center; font-weight: bold;"><h6>Deepwalk</h6></div>
+    <div style="text-align:center; font-weight: bold;"><h6>DeepWalk</h6></div>
   </div>
   <div class="column" style="float: left; width: 18.6%; padding: 5px">
     <img src="/assets/efge/dolphins_method1_dim=2_eigen-1.jpg">

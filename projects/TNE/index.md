@@ -1,7 +1,7 @@
 ---
 layout: tne
 ---
-## <center>Topic-Aware Latent Models for Representation Learning on Networks</center>
+## <center>TNE: Topical Node Embeddings</center>
 
 ### Motivation
 

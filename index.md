@@ -6,6 +6,7 @@ a, a:visited {
 color:dodgerblue;
 }
 
+
 .aboutme {
 display:block;
 width:100%;
@@ -137,13 +138,15 @@ $(document).ready(function(){
 
 <div class="aboutme">
 <div class="inside-block" style="width: 150px">
-<img src="http://cvn.centralesupelec.fr/wp-content/uploads/2017/12/abdulkadir.jpg" style=" width: 110px; height: 110px; border-radius: 50%; margin: 10px; object-fit: cover; object-position: center right;">
+<img src="assets/abdulkadir.jpg" style=" width: 110px; height: 110px; border-radius: 50%; margin: 10px; object-fit: cover; object-position: center right;">
 <div style="margin-top: 10px; display: block; padding-left: 15px;">
 <a href="https://github.com/abdcelikkanat/"><img src="assets/icons/icons8-github-48.png" style="height:24px; width:24px; margin-left: 5px;"></a>
 <a href="https://www.linkedin.com/in/abdulkadir-%C3%A7elikkanat-65a759104/"><img src="assets/icons/icons8-linkedin-48.png" style="height:24px; width:24px; margin-left: 5px;"></a>
 <a href="https://twitter.com/abdcelikkanat"><img src="assets/icons/icons8-twitter-48.png" style="height:24px; width:24px; margin-left: 5px;"></a>
 </div>
 </div>
+<div class="inside-block" style="width: 525px; text-align: center; margin-bottom: 0px; font-size: 20px; letter-spacing: 3px; color:#555;">Abdulkadir Çelikkanat‬</div>
+<div class="inside-block" style="width: 325px; background-color: #999999; height: 1px; margin: 5px auto 15px 100px;"></div>
 <div class="inside-block" style="width: 525px; text-align: justify;">
 I'm currently a Ph.D. student at <a href="http://cvn.centralesupelec.fr/">Centre for Visual Computing</a> laboratory of CentraleSupélec, Paris-Saclay University under the supervision of Assistant Prof. <a href="http://fragkiskos.me/">Fragkiskos D. Malliaros</a> and Prof. <a href="http://vision.mas.ecp.fr/personal.html">Nikos Paragios</a>. Before my Ph.D. studies, I received my Bachelor degree in Mathematics and my Master's degree in Computer Engineering from Boğaziçi University, where I worked with Prof. <a href="https://www.cmpe.boun.edu.tr/~cemgil/">Ali Taylan Cemgil</a>. 
 <br><br>
@@ -157,14 +160,15 @@ My research mainly focuses on the analysis of graph-structured data. In particul
 
 <div class="section-title" style="margin-top: 25px;">Publications</div>
 
+<div class="article-year">2020</div>
 
 <div class="article-block">
     <div class="article-left-bar"></div>
     <div style="float:left; display:inline-block; padding-left: 5px">
         <div class="article-inline-title">Exponential Family Graph Embeddings</div>
         <div class="article-inline-authors">Abdulkadir Çelikkanat and Fragkiskos D. Malliaros.</div>
-        <div class="article-inline-conference">AAAI Conference on Artificial Intelligence (AAAI), New York City, New York, 2020. To Appear.</div>
-        <div class="article-inline-reference">[arXiv: <a href="https://arxiv.org/abs/1911.09007">PDF</a>] [Code: <a href="https://abdcelikkanat.github.io/projects/EFGE/">LINK</a>]</div>
+        <div class="article-inline-conference">AAAI Conference on Artificial Intelligence (AAAI), 3357-3364, New York City, New York, 2020. </div>
+        <div class="article-inline-reference">[arXiv: <a href="https://arxiv.org/abs/1911.09007">PDF</a>] [Doi: <a href="https://doi.org/10.1609/aaai.v34i04.5737">LINK</a>] [Code: <a href="https://abdcelikkanat.github.io/projects/EFGE/">LINK</a>]</div>
     </div>
 </div>
 
@@ -294,7 +298,7 @@ My research mainly focuses on the analysis of graph-structured data. In particul
 <div class="contact-block">
     <div class="contact-subblock">
         <div class="contact-title">E-mail:</div>
-        <div class="contact-info"><a href="mailto:abdcelikkanat@gmail.com">abdcelikkanat@gmail.com</a><br><a href="mailto:abdulkadir.celikkanat@centralesupelec.fr">abdulkadir.celikkanat@centralesupelec.fr</a></div>
+        <div class="contact-info"><a href="mailto:abdcelikkanat@gmail.com">abdcelikkanat@gmail.com</a><br><a href="mailto:abdulkadir.celikkanat@centralesupelec.fr">abdulkadir.celikkanat@centralesupelec.fr</a><br><a href="mailto:abdulkadir.celikkanat@centralesupelec.fr">abdulkadir.celikkanat@inria.fr</a></div>
     </div>
     <div class="contact-subblock">
         <div class="contact-title">Address:</div>

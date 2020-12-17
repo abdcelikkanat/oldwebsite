@@ -224,9 +224,22 @@ My research mainly focuses on the analysis of graph-structured data. In particul
         <div class="article-inline-title">TNE: A Latent Model for Representation Learning on Networks</div>
         <div class="article-inline-authors">Abdulkadir Çelikkanat and Fragkiskos D. Malliaros.</div>
         <div class="article-inline-conference">NeurIPS Relational Representation Learning Workshop (NeurIPS-R2L), Montréal, Canada, 2018.</div>
-        <div class="article-inline-reference">[arXiv: <a href="hhttp://fragkiskos.me/papers/TNE_NeurIPS_R2L_2018.pdf">PDF</a>] [Poster: <a href="assets/posters/NIPS_Workshop_TNE_Poster.pdf">LINK</a>] [Code: <a href="https://abdcelikkanat.github.io/projects/TNE/">LINK</a>]</div>
+        <div class="article-inline-reference">[arXiv: <a href="http://fragkiskos.me/papers/TNE_NeurIPS_R2L_2018.pdf">PDF</a>] [Poster: <a href="assets/posters/NIPS_Workshop_TNE_Poster.pdf">LINK</a>] [Code: <a href="https://abdcelikkanat.github.io/projects/TNE/">LINK</a>]</div>
     </div>
 </div>
+
+<div class="article-year">2017</div>
+
+<div class="article-block">
+    <div class="article-left-bar"></div>
+    <div style="float:left; display:inline-block; padding-left: 5px">
+        <div class="article-inline-title">Sampling methods for random simple and bipartite graphs with prescribed degree sequences </div>
+        <div class="article-inline-authors">Abdulkadir Çelikkanat</div>
+        <div class="article-inline-conference">Master's Thesis, 2017.</div>
+        <div class="article-inline-reference">[Thesis: <a href="https://tez.yok.gov.tr/UlusalTezMerkezi/TezGoster?key=vbVkXe1KChYWNElr1MuLZusWwBD6YW1NT8jZCZCOPYKWun1pa2-LirYGE9m9uS7P">PDF</a>] [Presentation: <a href="https://drive.google.com/file/d/0B7PcipLnfc9RUUpoa3k3WnFJRU0/view?usp=sharing">LINK</a>] [Code: <a href="https://github.com/abdcelikkanat/sacorg">LINK</a>]</div>
+    </div>
+</div>
+
 
 
 <br><br>

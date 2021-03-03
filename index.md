@@ -165,6 +165,16 @@ My research mainly focuses on the analysis of graph-structured data. In particul
 <div class="article-block">
     <div class="article-left-bar"></div>
     <div style="float:left; display:inline-block; padding-left: 5px">
+        <div class="article-inline-title">Topic-Aware Latent Models for Representation Learning on Networks</div>
+        <div class="article-inline-authors">Abdulkadir Çelikkanat and Fragkiskos D. Malliaros.</div>
+        <div class="article-inline-conference">Pattern Recognition Letters, Advances in graph-based pattern recognition, Elsevier, 2021.</div>
+        <div class="article-inline-reference">[Doi: <a href="https://doi.org/10.1016/j.patrec.2021.01.006">LINK</a>] [Code: <a href="https://abdcelikkanat.github.io/projects/TNE/">LINK</a>]</div>
+    </div>
+</div>
+
+<div class="article-block">
+    <div class="article-left-bar"></div>
+    <div style="float:left; display:inline-block; padding-left: 5px">
         <div class="article-inline-title">NodeSig: Random Walk Diffusion meets Hashing for Scalable Graph Embeddings</div>
         <div class="article-inline-authors">Abdulkadir Çelikkanat, Apostolos N. Papadopoulos and Fragkiskos D. Malliaros.</div>
         <div class="article-inline-conference">Manuscript</div>
@@ -173,16 +183,6 @@ My research mainly focuses on the analysis of graph-structured data. In particul
 </div>
 
 <div class="article-year">2020</div>
-
-<div class="article-block">
-    <div class="article-left-bar"></div>
-    <div style="float:left; display:inline-block; padding-left: 5px">
-        <div class="article-inline-title">Topic-Aware Latent Models for Representation Learning on Networks</div>
-        <div class="article-inline-authors">Abdulkadir Çelikkanat and Fragkiskos D. Malliaros.</div>
-        <div class="article-inline-conference">Pattern Recognition Letters, Advances in graph-based pattern recognition [Under The Second Revision]</div>
-        <div class="article-inline-reference">[Code: <a href="https://abdcelikkanat.github.io/projects/kernelNE/">LINK</a>]</div>
-    </div>
-</div>
 
 <div class="article-block">
     <div class="article-left-bar"></div>

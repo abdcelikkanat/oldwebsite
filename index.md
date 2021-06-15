@@ -376,3 +376,4 @@ My research mainly focuses on the analysis of graph-structured data. In particul
         <div class="contact-info">Bâtiment Bouygues, Centre for Visual Computing<br>CentraleSupélec, 8 rue Joliot-Curie<br>91190 Gif-sur-Yvette, France</div>
     </div>
 </div>
+

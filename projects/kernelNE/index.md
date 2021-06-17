@@ -15,11 +15,11 @@ In this work, we aim to bring together the best of both worlds, towards learning
 </p></h5>
 
 ### Code
-##### An implementation of the project in C++ can be reached at the [Github](https://github.com/abdcelikkanat/kernelNE) repository.
+##### An implementation of the project in C++ can be reached at the [Github](https://github.com/abdcelikkanat/MkernelNE) repository.
 
 ### Contributors
 ##### [Abdulkadir Çelikkanat](http://abdcelikkanat.github.io/), [Yanning Shen](https://sites.google.com/uci.edu/yanning-shen/) and [Fragkiskos D. Malliaros](http://fragkiskos.me)
 
 ### References
 ##### A. Celikkanat and F. D. Malliaros, [Kernel Node Embeddings](https://doi.org/10.1109/GlobalSIP45357.2019.8969363), 7th IEEE Global Conference on Signal and Information Processing (GlobalSIP), 2019
-##### A. Celikkanat,  Y. Shen and F. D. Malliaros, [Multiple Kernel Representation Learning on Networks](https://arxiv.org/abs/2106.05057), Submitted to IEEE Transactions on Knowledge and Data Engineering (TKDE), 2021
+##### A. Celikkanat,  Y. Shen and F. D. Malliaros, [Multiple Kernel Representation Learning on Networks](https://arxiv.org/abs/2106.05057), Manuscript, 2021

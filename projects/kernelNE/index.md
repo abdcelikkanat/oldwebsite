@@ -15,7 +15,7 @@ In this work, we aim to bring together the best of both worlds, towards learning
 </p></h5>
 
 ### Code
-##### An implementation of the project in C++ can be reached at the [Github](https://github.com/abdcelikkanat/MkernelNE) repository.
+##### An implementation of the project in C++ can be reached at the [Github](https://github.com/abdcelikkanat/kernelNE) repository.
 
 ### Contributors
 ##### [Abdulkadir Çelikkanat](http://abdcelikkanat.github.io/), [Yanning Shen](https://sites.google.com/uci.edu/yanning-shen/) and [Fragkiskos D. Malliaros](http://fragkiskos.me)

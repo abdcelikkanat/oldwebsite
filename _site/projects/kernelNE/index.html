@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en"><head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1"><!-- Begin Jekyll SEO tag v2.8.0 -->
+<title>Multiple Kernel Representation Learning on Networks | abdcelikkanat.github.io</title>
+<meta name="generator" content="Jekyll v3.9.2" />
+<meta property="og:title" content="Multiple Kernel Representation Learning on Networks" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="Personal web page" />
+<meta property="og:description" content="Personal web page" />
+<link rel="canonical" href="http://localhost:4000/projects/kernelNE/" />
+<meta property="og:url" content="http://localhost:4000/projects/kernelNE/" />
+<meta property="og:site_name" content="abdcelikkanat.github.io" />
+<meta property="og:type" content="website" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="Multiple Kernel Representation Learning on Networks" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"WebPage","description":"Personal web page","headline":"Multiple Kernel Representation Learning on Networks","url":"http://localhost:4000/projects/kernelNE/"}</script>
+<!-- End Jekyll SEO tag -->
+<link rel="stylesheet" href="/assets/main.css"><link type="application/atom+xml" rel="alternate" href="http://localhost:4000/feed.xml" title="abdcelikkanat.github.io" /></head>
+<body><header class="site-header" role="banner">
+
+  <div class="wrapper"><nav class="site-nav">
+        <input type="checkbox" id="nav-trigger" class="nav-trigger" />
+        <label for="nav-trigger">
+          <span class="menu-icon">
+            <svg viewBox="0 0 18 15" width="18px" height="15px">
+              <path d="M18,1.484c0,0.82-0.665,1.484-1.484,1.484H1.484C0.665,2.969,0,2.304,0,1.484l0,0C0,0.665,0.665,0,1.484,0 h15.032C17.335,0,18,0.665,18,1.484L18,1.484z M18,7.516C18,8.335,17.335,9,16.516,9H1.484C0.665,9,0,8.335,0,7.516l0,0 c0-0.82,0.665-1.484,1.484-1.484h15.032C17.335,6.031,18,6.696,18,7.516L18,7.516z M18,13.516C18,14.335,17.335,15,16.516,15H1.484 C0.665,15,0,14.335,0,13.516l0,0c0-0.82,0.665-1.483,1.484-1.483h15.032C17.335,12.031,18,12.695,18,13.516L18,13.516z"/>
+            </svg>
+          </span>
+        </label>
+
+        <left>
+        <div class="trigger" style="float: left">
+             <a class="page-link" href="#motivation">Motivation</a>
+             <a class="page-link" href="#code">Code</a>
+             <a class="page-link" href="#contributors">Contributors</a>
+             <a class="page-link" href="#references">References</a>
+        </div>
+      </left>
+      </nav></div>
+</header>
+<main class="page-content" aria-label="Content">
+      <div class="wrapper">
+        <h2 id="multiple-kernel-representation-learning-on-networks"><center>Multiple Kernel Representation Learning on Networks</center></h2>
+
+<h3 id="motivation">Motivation</h3>
+
+<h5><p align="justify">
+Learning representations of nodes in a low dimensional space is a crucial task with numerous interesting applications in network analysis, including link prediction, node classification, and visualization. Two popular approaches for this problem are <i>matrix factorization</i> and <i>random walk</i>-based models. </p></h5>
+
+<p><img src="/assets/kernelNE/mkernelne_banner.jpg" alt="KernelNE Picture" /></p>
+
+<h5><p align="justify" style="margin-top:30px;">
+In this work, we aim to bring together the best of both worlds, towards learning node representations. In particular, we propose a weighted matrix factorization model that encodes random walk-based information about nodes of the network. The benefit of this novel formulation is that it enables us to utilize kernel functions without realizing the exact proximity matrix so that it enhances the expressiveness of existing matrix decomposition methods with kernels and alleviates their computational complexities. We extend the approach with a multiple kernel learning formulation that provides the flexibility of learning the kernel as the linear combination of a dictionary of kernels in data-driven fashion. We perform an empirical evaluation on real-world networks, showing that the proposed model outperforms baseline node embedding algorithms in downstream machine learning tasks.
+</p></h5>
+
+<h3 id="code">Code</h3>
+<h5 id="an-implementation-of-the-project-in-c-can-be-reached-at-the-github-repository">An implementation of the project in C++ can be reached at the <a href="https://github.com/abdcelikkanat/kernelNE">Github</a> repository.</h5>
+
+<h3 id="contributors">Contributors</h3>
+<h5 id="abdulkadir-çelikkanat-yanning-shen-and-fragkiskos-d-malliaros"><a href="http://abdcelikkanat.github.io/">Abdulkadir Çelikkanat</a>, <a href="https://sites.google.com/uci.edu/yanning-shen/">Yanning Shen</a> and <a href="http://fragkiskos.me">Fragkiskos D. Malliaros</a></h5>
+
+<h3 id="references">References</h3>
+<h5 id="a-celikkanat-and-f-d-malliaros-kernel-node-embeddings-7th-ieee-global-conference-on-signal-and-information-processing-globalsip-2019">A. Celikkanat and F. D. Malliaros, <a href="https://doi.org/10.1109/GlobalSIP45357.2019.8969363">Kernel Node Embeddings</a>, 7th IEEE Global Conference on Signal and Information Processing (GlobalSIP), 2019</h5>
+<h5 id="a-celikkanat--y-shen-and-f-d-malliaros-multiple-kernel-representation-learning-on-networks-ieee-transactions-on-knowledge-and-data-engineering-2022">A. Celikkanat,  Y. Shen and F. D. Malliaros, <a href="https://doi.org/10.1109/TKDE.2022.3172048">Multiple Kernel Representation Learning on Networks</a>, IEEE Transactions on Knowledge and Data Engineering, 2022</h5>
+
+      </div>
+    </main><footer class="site-footer h-card">
+
+
+
+</footer>
+</body>
+
+  <head>
+  <style>
+      /*  Overwrite the site-header class   */
+      .site-header {
+          border-top: 0px solid #424242;
+      }
+      /* ---------------------------------- */
+  </style>
+  </head>
+
+</html>
